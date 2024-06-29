@@ -1,0 +1,57 @@
+.body{
+    width: 1280px;
+    height: 720px;
+    
+}
+
+.video1{
+   float: left;
+   padding-left: 100px;
+   padding-bottom: 50px;
+}
+
+.video2{
+    float: right;
+    padding-right: 100px;
+    padding-bottom: 50px;
+}
+
+.video3{
+    float: left;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
+
+.video4{
+    float: right;
+    padding-right: 100px;
+    padding-bottom: 50px;
+}
+
+
+.video5{
+    float: left;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
+
+
+.video6{
+    float: right;
+    padding-right: 100px;
+    padding-bottom: 50px;
+}
+
+.video7{
+    float: left;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
+
+.video8{
+    
+    float: right;
+    padding-right: 100px;
+    padding-bottom: 50px;
+}
+
